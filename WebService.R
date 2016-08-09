@@ -12,8 +12,7 @@ myInterface <- "0.0.0.0"
 status <- -1
 
 json1 <- '{"hello":"world1"}'
-json2 <- '{"hello":"world2"'
-#This web service demands that you execute the WisaDST Aplication that return a global JSON Array
+json2 <- '{"hello":"world2"}'
 
 #app1
 app1Html <- function(request,response, iter) {
